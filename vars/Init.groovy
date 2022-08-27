@@ -1,4 +1,4 @@
-def Init()
+def call()
 {
     println("initializing environment variables");
 }
